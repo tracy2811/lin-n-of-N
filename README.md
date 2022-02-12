@@ -25,7 +25,7 @@ In this implemenation:
 
 ### Query performance
 
-[!Query performance](./img/query.png)
+![Query performance](./img/query.png)
 
 - `SAMPLE_SIZE = 1000`
 - `N = 800`
